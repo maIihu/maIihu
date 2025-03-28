@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
-<img height="125px" src="https://github-readme-stats.vercel.app/api?username=Mr-1504&show_icons=true&theme=dracula" />
+<img height="125px" src="https://github-readme-stats.vercel.app/api?username=maIihu&show_icons=true&theme=dracula" />
 <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maIihu&hide=html&layout=compact&theme=dracula" />
 <img height="125px" src="https://github-readme-streak-stats.herokuapp.com/?user=maIihu&hide=html&layout=compact&theme=dracula" />
 <br>
